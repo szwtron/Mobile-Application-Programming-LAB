@@ -1,0 +1,10 @@
+https://github.com/szwtron/Mobile-Application-Programming-LAB.git
+
+setelah melakukan beberapa pengujian pada app yang didevelop saya dapat menarik beberapa kesimpulan,
+pertama, menurut saya RecyclerView ini bekerja dengan konsep yang sama dengan linkedlist dimana untuk melakukan
+beberapa aksi kita mengimplementasikan penanda posisi saat ini lau baru menerapkan aksi yang diinginkan seperti 
+menambah kata pernah diklik
+kedua, file adapter (daftarkataadapter) berfungsi seperti sebuah file untuk menjalankan recyclerview beserta 
+beberapa fungsi tambahan lainnya yang dapat dilakukan saat berinteraksi dengan item-item yang ada pada recyclerview
+ketiga, FAB sendiri sebenarnya adalah sebuah button namun yang membedakan adalah button ini memiliki posisi yang berada
+pada layer paling atas sebuah halaman sehingga button ini tidak akan tertutup efek scroll dll.
