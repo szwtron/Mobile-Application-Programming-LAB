@@ -1,0 +1,12 @@
+https://github.com/szwtron/Mobile-Application-Programming-LAB.git
+
+Latihan Tugas dan Eksperimen
+2. Error terjadi karena user tidak mengisi nilai dari angka dan pada saat di parse menjadi double terjadi error
+   Langkah-langkah yang saya lakukan untuk memperbaiki error tersebut adalah dengan memberikan tambahan code di fungsi hitung
+   pertama, mengassign nilai operand menjadi 0 apabila user tidak melakukan input dan khusus untuk pembagian apabila salah satu nilai yang diinput adalah 0
+   maka program akan mengassign hasil = 0
+3. Setelah melakukan debugging kesimpulan yang saya dapat adalah sebagai berikut :
+   a. Step over -> menjalankan line sekarang dan berhenti pada line berikutnya
+   b. Step into -> jika ada method dalam line sekarang maka akan masuk ke method/fungsi tersebut
+   c. Step out -> menyelesaikan method secara keseluruhan dan kembali ke line step into
+   d. Resume -> melanjutkan program seperti biasa
