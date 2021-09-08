@@ -1,0 +1,9 @@
+https://github.com/szwtron/Mobile-Application-Programming-LAB.git
+
+setelah melakukan beberapa pengujian pada app yang didevelop saya dapat menarik beberapa kesimpulan,
+pertama, menurut saya Intent adalah sebuah metode atau sarana atau obej yang dapat digunakan untuk mengirim pesan
+atau meminta aksi dari komponen aplikasi yang lain. Intent sendiri terbagi menjadi 2 yaitu eksplisit dan implisit
+pada intent eksplisit intent akan menentukan aplikasi manakah yang akan memenuhi intent tersebut. lalu, pada eksplisit,
+intent akan di deklarasikan secara general sehingga komponen aplikasi lain dapat menghandle intent tersebut.
+kedua, menurut saya fragment adalah sebuah komponen UI yang bersifat reusable. sebuah fragment dapat memiliki layout nya sendiri,
+memiliki lifecycle nya sendiri dan bahkan bisa menghandle input nya sendiri. namun fragment ini perlu menjadi bagian dari sebuah view
