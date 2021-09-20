@@ -1,0 +1,5 @@
+https://github.com/szwtron/Mobile-Application-Programming-LAB.git
+
+Customview adalah sebuah komponen khusus yang disediakan oleh anddroid bagi developer. Pada customview ini developer dapat mengembangkan aplikasi nya sesuai dengan keinginan atau kebutuhannya
+selain itu pada customview developer dapat menggunakan berbagai macam widgets dan layyout untuk mendukung pengembangannya. pada customview pendekatan yang dilakukan adalah dengan mengextend
+view lalu mengoverride fungsi-fungsi lain sesuai dengan kebutuhan seperti onDraw, onMeasure, dll.
