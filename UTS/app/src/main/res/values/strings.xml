@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS_36396</string>
+    <string name="referensi">
+        https://stackoverflow.com/questions/2459916/how-to-make-an-imageview-with-rounded-corners \n
+        https://developer.android.com/reference/android/widget/ImageButton \n
+        https://developer.android.com/docs \n
+        https://www.myinstants.com/index/id/ \n
+        https://mixkit.co/ \n
+    </string>
+</resources>
