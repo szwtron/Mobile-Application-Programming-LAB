@@ -20,7 +20,7 @@
             android:id="@+id/imageView2"
             android:layout_width="175dp"
             android:layout_height="175dp"
-            app:srcCompat="@drawable/skull_minimal" />
+            app:srcCompat="@drawable/fotoprofile" />
     </androidx.cardview.widget.CardView>
 
     <TextView
